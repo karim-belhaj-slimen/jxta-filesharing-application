@@ -1,0 +1,1 @@
+This project is written in Java and it is based on JXTA technology, developed by Sun Microsystems.
